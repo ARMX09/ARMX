@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CODEWAY - منصة تعليمية</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f3f3f3;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+    }
+    header {
+      background-color: #0077cc;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    .container {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #666;
+      line-height: 1.8;
+      font-size: 18px;
+    }
+    .cta-button {
+      display: inline-block;
+      padding: 15px 30px;
+      background-color: #28a745;
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>مرحبًا بكم في CODEWAY</h1>
+    <p>منصة تعليم البرمجة وريادة الأعمال للأطفال</p>
+  </header>
+
+  <div class="container">
+    <h2>ما هي CODEWAY؟</h2>
+    <p>CODEWAY هي منصة مبتكرة تهدف لتعليم الأطفال البرمجة ومهارات ريادة الأعمال بطريقة تفاعلية وممتعة باستخدام تقنيات حديثة مثل الألعاب والأنيميشن.</p>
+    <a href="#contact" class="cta-button">سجل الآن</a>
+  </div>
+
+  <footer>
+    &copy; 2025 CODEWAY - جميع الحقوق محفوظة.
+  </footer>
+</body>
+</html>
