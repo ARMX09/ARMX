@@ -1,0 +1,35 @@
+{
+  "title": "أغلى شيء في حياتنا",
+  "negative_prompt": "text, subtitles, watermark, logo, deformed hands, extra fingers, distorted face, blurry, scary",
+  "shots": [
+    {
+      "id": "1A",
+      "prompt": "A 4-year-old boy, messy black hair, big brown eyes, rosy cheeks, light blue pajamas with small yellow stars, wakes up in his cozy bedroom, sits up in bed rubbing his eyes, then smiles and calls out happily, morning sunlight through the window, slow camera push in, Pixar style 3D animation, cinematic, soft warm lighting, shallow depth of field, highly detailed, consistent characters, 16:9"
+    },
+    {
+      "id": "1B",
+      "prompt": "A young mother, warm brown eyes, soft smile, beige and brown striped hijab with black inner layer, cozy beige sweater, enters the bedroom and hugs her 4-year-old son (messy black hair, light blue pajamas with small yellow stars) warmly, then a young father with short spiky black hair, full black beard, black rectangular glasses, brown t-shirt under a light grey zip jacket kneels and kisses the boy's forehead, the boy closes his eyes happily, camera slowly orbits around them, golden morning light, Pixar style 3D animation, cinematic, soft warm lighting, highly detailed, consistent characters, 16:9"
+    },
+    {
+      "id": "2A",
+      "prompt": "In a cozy living room with a rug and wooden toys, a young father with short spiky black hair, full black beard, black rectangular glasses, brown t-shirt under a light grey zip jacket sits on the rug building a tower of wooden blocks with his 4-year-old son (messy black hair, light blue pajamas with small yellow stars), the tower falls and the boy laughs, a young mother in a beige and brown striped hijab with black inner layer and cozy beige sweater leans on the doorway in the background smiling lovingly, low wide camera angle, Pixar style 3D animation, cinematic, soft warm lighting, highly detailed, consistent characters, 16:9"
+    },
+    {
+      "id": "2B",
+      "prompt": "A 4-year-old boy with messy black hair in light blue pajamas with small yellow stars runs to his young mother (beige and brown striped hijab, cozy beige sweater) and hugs her, then takes his father's hand (young father with full black beard, black rectangular glasses, light grey zip jacket) and his mother's hand together, camera tilts down to the three hands joined, warm daylight, emotional, Pixar style 3D animation, cinematic, soft warm lighting, highly detailed, consistent characters, 16:9"
+    },
+    {
+      "id": "3A",
+      "prompt": "A 4-year-old boy, messy black hair, big brown eyes, rosy cheeks, light blue pajamas with small yellow stars, sits on a sofa between his young father (short spiky black hair, full black beard, black rectangular glasses, light grey zip jacket) and his young mother (beige and brown striped hijab with black inner layer, cozy beige sweater), he looks up at them with shining innocent eyes and speaks sweetly, slow push in to a close-up of his face, warm afternoon side light, Pixar style 3D animation, cinematic, shallow depth of field, highly detailed, consistent characters, 16:9"
+    },
+    {
+      "id": "3B",
+      "prompt": "A young father with short spiky black hair, full black beard, black rectangular glasses, light grey zip jacket and a young mother in a beige and brown striped hijab with black inner layer and cozy beige sweater look at each other with eyes full of happy tears and love, then both hug their little 4-year-old son in light blue star pajamas tightly, emotional close shots, warm soft lighting, Pixar style 3D animation, cinematic, highly detailed, consistent characters, 16:9"
+    },
+    {
+      "id": "4A",
+      "prompt": "A young father with full black beard and black rectangular glasses, a young mother in a beige and brown striped hijab, and their 4-year-old son in light blue star pajamas resting his head on his father's shoulder hug each other in front of a large window, golden sunset light shining from behind them, warm glowing silhouette, the camera slowly dollies out, peaceful and emotional, Pixar style 3D animation, cinematic, soft warm lighting, highly detailed, consistent characters, 16:9"
+    }
+  ],
+  "ending_text": ["قد لا نملك كل شيء في الحياة...", "لكننا نملك أجمل شيء: العائلة"]
+}

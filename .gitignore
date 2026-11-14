@@ -1,2 +1,6 @@
 .env
 node_modules/
+video/build/
+video/clips/
+video/reference/
+video/final.mp4
