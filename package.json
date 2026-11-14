@@ -1,0 +1,11 @@
+{
+  "name": "codeway-kling",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CODEWAY integration with Kling AI for generating educational videos and images",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
